@@ -1,0 +1,1 @@
+screenResolution=1536x864; PHPSESSID=t69cr1vn03jrtf5kdcnmmjbiib
